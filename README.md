@@ -55,3 +55,27 @@ variables such as weather, promotions and special events.
 ---
 
 ## Project Structure
+
+
+---
+
+## How to Run
+
+```bash
+git clone https://github.com/parmarpratikuk-DataAnalyst/restaurant-demand-forecasting.git
+cd restaurant-demand-forecasting
+pip install -r requirements.txt
+jupyter notebook notebooks/demand_forecasting.ipynb
+```
+
+---
+
+## Author
+
+**Pratik R Parmar**  
+MSc Data Analytics — London Metropolitan University (2025)  
+[LinkedIn](https://www.linkedin.com/in/pratik1510)
+
+---
+
+*MSc Dissertation Project — submitted May 2026*
