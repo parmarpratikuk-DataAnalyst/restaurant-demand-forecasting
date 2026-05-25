@@ -56,8 +56,15 @@ variables such as weather, promotions and special events.
 
 ## Project Structure
 
+    restaurant-demand-forecasting/
+    │
+    ├── notebooks/
+    │   └── demand_forecasting.ipynb
+    ├── data/
+    │   └── README.md
+    ├── requirements.txt
+    └── README.md
 
----
 
 ## How to Run
 
